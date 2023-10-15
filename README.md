@@ -37,7 +37,7 @@
   ![image](https://github.com/Kirbytronic/openclash-mosdns-adguardhome/assets/40047753/1a5a1df4-f709-4b35-90ed-6ac7866911cf)
 
   ### 过滤器-NDS黑名单
-  ### [大佬维护的黑名单远程配置](https://github.com/Kirbytronic/Shadowrocket-ADBlock-Rules-Forever)
+  ### [大佬维护的黑名单远程配置](https://github.com/217heidai/adblockfilters)
   ![image](https://github.com/Kirbytronic/openclash-mosdns-adguardhome/assets/40047753/36a194aa-eccf-4d8a-99ec-e2dd3da4ce56)
 
 
